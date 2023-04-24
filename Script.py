@@ -1,9 +1,9 @@
 class script(object):
-    START_TXT = """<b>👋 ʜᴇʏ,{}\n ɪ'ᴍ ᴀᴅᴍɪɴ ᴏғ ᴍᴀʟᴀʏᴀʟɪ ғʀᴇᴀᴋs. ʙᴜᴛ ɪᴍ ᴏɴʟʏ ʙᴜɪʟᴛ ᴏɴʟʏ ғᴏʀ <a href='https://t.me/+MIOa3hp24PwyNzZl'>ᴍғ ɢʀᴏᴜᴘ</a>...</b>"""
+    START_TXT = """<b>👋 ʜᴇʏ,{}\n ɪ'ᴍ An AutoFilter Bot. ʙᴜᴛ ɪᴍ ᴏɴʟʏ ʙᴜɪʟᴛ ᴏɴʟʏ ғᴏʀ <a href='https://t.me/MoviePlex_TG2'>MoviePlex ɢʀᴏᴜᴘ</a>...</b>"""
 
     HELP_TXT = """👋ʜɪ,{} \n ᴛʜᴇsᴇ ᴀʀᴇ ᴍʏ ʜᴇʟᴘ ғᴇᴀᴛᴜʀᴇs.."""
 
-    ABOUT_TXT = """<b>᚛›𝐍𝐚𝐦𝐞: 𝐊𝐫𝐢𝐭𝐡𝐢
+    ABOUT_TXT = """<b>᚛›𝐍𝐚𝐦𝐞: {}
 ᚛›𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: 𝐏𝐲𝐭𝐡𝐨𝐧 𝟑.𝟖.𝟏𝟔
 ᚛›𝐋𝐢𝐛𝐫𝐚𝐫𝐲: <a href='https://github.com/pyrogram/pyrogram'>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝟐.𝟎.𝟏𝟎𝟒</a></b>
 ᚛›𝐕𝐞𝐫𝐬𝐢𝐨𝐧: 𝟒.𝟔𝟏
